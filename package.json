@@ -1,0 +1,21 @@
+{
+  "name": "backend-dojo2",
+  "version": "1.0.0",
+  "description": "Projeto para implementar o desafio proposto pela professora Juliana, para a disciplina de Desenvolvimento Web Backend pela UTFPR.",
+  "keywords": [
+    "backend",
+    "nodejs",
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": "pauloandre7",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
